@@ -1,7 +1,3 @@
-"""
-Configuration — loads environment variables and exposes app-wide settings.
-"""
-
 import os
 from dotenv import load_dotenv
 

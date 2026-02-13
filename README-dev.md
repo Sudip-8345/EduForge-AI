@@ -61,8 +61,8 @@ The browser will open at `http://localhost:5006/app`.
 
 | Variable | Default | Description |
 |---|---|---|
-| `OPENAI_API_KEY` | — | Your OpenAI API key |
-| `MODEL_NAME` | `gpt-4o-mini` | Model to use for both agents |
+| `GROQ_API_KEY` | — | Your Groq API Key |
+| `MODEL_NAME` | `llama-3.1-8b-instant` | Model to use for both agents |
 
 ## License
 
